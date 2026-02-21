@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DeeDee001
-- 👀 I’m interested in ... DATA Analysis
-- 🌱 I’m currently learning ... Data science
+- 👀 I’m interested in ... ML
+- 🌱 I’m currently learning ... CV
 - 📫 How to reach me ... rockrohan909@gmail
-- ⚡ Fun fact: ... I'm not a normal human 👽
+- ⚡ Fun fact: ... I'm a normal human 😊
 
 <!---
 DeeDee001/DeeDee001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
